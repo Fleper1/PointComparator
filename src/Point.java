@@ -1,5 +1,5 @@
 
-public class Point implements Comparable<Point>
+public class Point implements Comparable<Point> //class POINT
 {
     private double x;
     private double y;
